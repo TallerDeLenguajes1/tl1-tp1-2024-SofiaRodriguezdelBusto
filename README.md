@@ -7,5 +7,5 @@ Para configurar el archivo .gitignore se debe crear el archivo .gitignore en el 
 
 #### Ejercicio 2.2.e
 
-Hay archivos ocultos del visual studio code ocultos y los ejecutables que aparecen en el repositorio que considero que no es necesario incluirlos en el repositorio.
+Hay archivos y carpetas del visual studio code ocultos y los ejecutables que aparecen en el repositorio que considero que no es necesario incluirlos en el repositorio.
 
